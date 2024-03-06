@@ -1,2 +1,2 @@
-# practica-Git-GitHub
+# practica-git-github
 Practica de Git-GitHub
